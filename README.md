@@ -1,2 +1,2 @@
 # 2048_game
-horribly inefficient but was my first second ever project related to coding!
+horribly inefficient but was my second ever project related to coding!
